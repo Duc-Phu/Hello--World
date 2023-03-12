@@ -1,7 +1,5 @@
-Chèn thêm liên kết:
+*in nghiêng dòng chữ này*
 
-https://student.uit.edu.vn/
+**in đậm dòng chữ này**
 
-Chèn thêm hình:
-
-![alt](https://tinyurl.com/yvr3mkd9)
+***vừa in nghiêng vừa in đậm dòng chữ này***
